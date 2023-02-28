@@ -14,4 +14,4 @@
 ## Author
 - Website - [ADEMOLA OLALERE](https://github.com/acewrld)
 - Frontend Mentor - [@acewrld](https://www.frontendmentor.io/profile/acewrld)
-- Twitter - [@acewrld_](https://www.twitter.com/yourusername)
+- Twitter - [@acewrld_](https://www.twitter.com/acewrld_)

@@ -14,7 +14,7 @@ body {
     flex-direction: column;
 }
 
-.container {
+.qr-container {
     background-color: hsl(0, 0%, 100%);
     width: 350px;
     height: 570px;
@@ -39,7 +39,7 @@ p {
     padding: 5px;
 }
 
-.attribution {
+.footer-attribution {
     padding: 10px;
     font-size: 10px;
 }
