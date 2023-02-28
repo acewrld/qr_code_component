@@ -2,8 +2,8 @@
 
 ![Design preview for the QR code component coding challenge](./images/qr-code-scanner.jpg)
 
-- Solution URL: [https://github.com/acewrld/qr_code_component]
-- Live Site URL: [https://glistening-mousse-1dad91.netlify.app]
+- Solution URL: [https://github.com/acewrld/qr_code_component](https://github.com/acewrld/qr_code_component)
+- Live Site URL: [https://glistening-mousse-1dad91.netlify.app](https://glistening-mousse-1dad91.netlify.app/)
 
 ### Built with
 
