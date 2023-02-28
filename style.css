@@ -40,7 +40,8 @@ p {
 }
 
 .attribution {
-    padding: 5px;;
+    padding: 10px;
+    font-size: 10px;
 }
 
 /* @media screen and (max-width: 375px) {
