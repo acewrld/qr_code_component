@@ -1,3 +1,9 @@
-frontendmentor-qrcode scanner.
+# Frontend Mentor - QR code component
 
-Created with HTML and CSS by ADEMOLA OLALERE
+![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
+
+
+*HTML
+*CSS
+
+Created by Ademola Olalere
